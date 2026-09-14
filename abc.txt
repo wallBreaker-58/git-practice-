@@ -1,5 +1,4 @@
 feature1+ bugfix
 feature2
-feature3
 next bug
 
